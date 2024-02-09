@@ -6,15 +6,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-::-webkit-scrolbar {  /*para esconder a barra de rolagem */
+::-webkit-scrollbar {
     width: 0px;
     height: 0px;
 }
 
-
 img {
-    width: 100vh;
-    display: block;
+    width: 100vw;
 }
 
 a {
